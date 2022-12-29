@@ -45,7 +45,7 @@ class Triangle extends shape{
 
     @Override
     public void numberOfSides() {
-        System.out.println("Triangle has 4 sides");
+        System.out.println("Triangle has 3 sides");
     }
 }
 
