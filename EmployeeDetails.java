@@ -1,3 +1,7 @@
+//Program with Employee class which has Name, Age, Phone number, Address, Salary. It also has a method named 'print( . 
+//Employee is extended by two classes Manger and Officer which also has Specialization and department data members.
+//A menu to display full details or Name and salary of employee is also available
+
 import java.text.DecimalFormat; //Used to change scientific notation format of phone number
 import java.util.Scanner;
 
