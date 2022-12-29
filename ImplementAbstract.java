@@ -1,3 +1,6 @@
+//Program which has an abstract class named shape and has an abstract method numberOfSides() and Area(),
+// It is extended by Triangle, Rectangle, Hexagon. Each one of the classes contains only the method
+// numberOfSides() that shows the number of sides in the given geometrical structures.
 import java.util.Scanner;
 abstract class shape {
     Scanner sc = new Scanner(System.in);
