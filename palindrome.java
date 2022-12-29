@@ -1,3 +1,5 @@
+//Java Program to chekc palindrome
+
 import java.util.Scanner;
 
 public class palindrome {
