@@ -1,4 +1,4 @@
-//Java Program to chekc palindrome
+//Java Program to check palindrome
 
 import java.util.Scanner;
 
