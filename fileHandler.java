@@ -9,6 +9,7 @@ public class fileHandler{
         if(!file.exists()){
             try{
                 file.createNewFile();
+                System.out.println("Creating a new file");
             }catch (IOException e){
                 System.out.println("Can't create File");
             }
